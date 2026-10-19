@@ -1,0 +1,5 @@
+[[redirects]]
+  from = = "/epcigame/*"
+  to = "https://epcigame.netlify.app/epcigame/:splat"
+  status = 200
+  force = true
